@@ -7,10 +7,10 @@ Repositorio de las clases teóricas para la materia "Lenguajes Formales y Autóm
 
 #### Clases
 
-- [Clase 1 - Intro](LFA%20T1%20(%20Intro%20)%20-%202023%20-%20S2.pptx)
-- [Clase 2 - Problemas y Lenguajes](./LFA%20T2%20(%20Problemas%20y%20Lenguajes%20)%20-%202023%20-%20S2.pptx)
-- [Clase 3 - AFD y Lenguajes regulares](./LFA%20T3%20(%20AFD%20y%20L%20regulares%20)%20-%202023%20-%20S2.pptx)
-- [Clase 4 - Minimización de AFD](./LFA%20%20T4%20(%20Minimización%20)%20-%202023%20-%20S2.pptx)
-- [Clase 5 - Traductores](/LFA%20%20T5%20(%20Traductores%20)%20-%202023%20-%20S2.pptx)
-- [Clase 6 - AFND](/LFA%20%20T6%20(%20AFND%20)%20-%202023%20-%20S2.pptx)
-- [Clase 7 - Propiedades de los Lenguajes regulares](/LFA%20T7%20(%20Propiedades%20L%20Regulares%20)%20-%202023%20-%20S2.pptx)
+- [Clase 1 - Intro](/pdfs/LFA_T1_-_2023_-_S2.pdf)
+- [Clase 2 - Problemas y Lenguajes](/pdfs/LFA_T2__problemas_y_lenguajes__-_2023_-_S2.pdf)
+- [Clase 3 - AFD y Lenguajes regulares](/pdfs/LFA_T3__AFD_y_L_regulares__-_2023_-_S2.pdf)
+- [Clase 4 - Minimización de AFD](/pdfs/LFA_T4__Minimizacion__-_2023_-_S2_1.pdf)
+- [Clase 5 - Traductores](/pdfs/LFA_T5__Traductores__-_2023_-_S2.pdf)
+- [Clase 6 - AFND](/pdfs/LFA%20%20T6%20(%20AFND%20)%20-%202023%20-%20S2.pdf)
+- [Clase 7 - Propiedades de los Lenguajes regulares](/pdfs/LFA%20T7%20(%20Propiedades%20L%20Regulares%20)%20-%202023%20-%20S2.pdf)
