@@ -14,3 +14,4 @@ Repositorio de las clases teóricas para la materia "Lenguajes Formales y Autóm
 - [Clase 5 - Traductores](/pdfs/LFA_T5__Traductores__-_2023_-_S2.pdf)
 - [Clase 6 - AFND](/pdfs/LFA%20%20T6%20(%20AFND%20)%20-%202023%20-%20S2.pdf)
 - [Clase 7 - Propiedades de los Lenguajes regulares](/pdfs/LFA%20T7%20(%20Propiedades%20L%20Regulares%20)%20-%202023%20-%20S2.pdf)
+- [Clase 8 - Expresiones Regulares](/pdfs/LFA%20%20T8%20(%20Expresiones%20Regulares%20)%20-%202023%20-%20S2.pdf)
