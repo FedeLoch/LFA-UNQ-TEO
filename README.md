@@ -15,3 +15,4 @@ Repositorio de las clases teóricas para la materia "Lenguajes Formales y Autóm
 - [Clase 6 - AFND](/pdfs/LFA%20%20T6%20(%20AFND%20)%20-%202023%20-%20S2.pdf)
 - [Clase 7 - Propiedades de los Lenguajes regulares](/pdfs/LFA%20T7%20(%20Propiedades%20L%20Regulares%20)%20-%202023%20-%20S2.pdf)
 - [Clase 8 - Expresiones Regulares](/pdfs/LFA%20%20T8%20(%20Expresiones%20Regulares%20)%20-%202023%20-%20S2.pdf)
+- [Clase 9 - Pumping Lemma](/pdfs/LFA%20%20T9%20(%20Pumping%20Lemma%20)%20-%202023%20-%20S2.pdf)
