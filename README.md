@@ -20,3 +20,4 @@ Repositorio de las clases teóricas para la materia "Lenguajes Formales y Autóm
 - [Clase 11 - Gramáticas Libres del contexto](/pdfs/LFA%20T11%20(%20Gramáticas%20libres%20de%20contexto%20%20)%20-%202023%20-%20S2.pdf)
 - [Clase 12 - Autómatas de pila](/pdfs/LFA%20T12%20(%20Autómatas%20de%20pila%20%20)%20-%202023%20-%20S2.pdf)
 - [Clase 13 - Equivalencia AP y GLC](/pdfs/LFA%20T13%20(%20Equivalencia%20AP%20y%20GLC%20%20)%20-%202023%20-%20S2.pdf)
+- [Clase 14 - Máquinas de Turing](/pdfs/LFA%20T14%20(%20Máquinas%20de%20Turing%20%20)%20-%202023%20-%20S2.pdf)
