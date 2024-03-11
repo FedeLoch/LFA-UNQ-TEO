@@ -7,7 +7,7 @@ Repositorio de las clases teóricas para la materia "Lenguajes Formales y Autóm
 
 #### Clases
 
-- [Clase 1 - Intro](/pdfs/LFA_T1_-_2023_-_S2.pdf)
+- [Clase 1 - Intro](/pdfs/LFA%20T1%20%28%20Intro%20%29%20-%202023%20-%20S2.pdf)
 - [Clase 2 - Problemas y Lenguajes](/pdfs/LFA_T2__problemas_y_lenguajes__-_2023_-_S2.pdf)
 - [Clase 3 - AFD y Lenguajes regulares](/pdfs/LFA_T3__AFD_y_L_regulares__-_2023_-_S2.pdf)
 - [Clase 4 - Minimización de AFD](/pdfs/LFA_T4__Minimizacion__-_2023_-_S2_1.pdf)
